@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&text=HYUNSEUNG&fontColor=000000&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=EADFFF&height=120&text=HYUNSEUNG&fontColor=000000&fontSize=70" />
 
   <br/>
   <h3>Java & Spring 기반 백엔드 개발자</h3>
@@ -48,13 +48,12 @@
 </div>
 
 
-
 ## 🏅 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyun-seung&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hyun-seung&show_icons=true&theme=transparent&cache_seconds=30" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun-seung&layout=compact&theme=transparent&hide=html,css,javascript" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun-seung&layout=compact&theme=transparent&cache_seconds=30" />
 </p>
