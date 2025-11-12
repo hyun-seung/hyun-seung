@@ -12,7 +12,7 @@
     가독성과 유지보수성을 높이는 클린 코드와 견고한 아키텍처를 추구합니다.
   </p>
 
-  <!-- 📫 Contact (소개문 바로 아래, 오른쪽 끝 정렬 느낌) -->
+  <!-- 📫 Contact -->
   <p align="right" style="margin-right: 30px;">
     <a href="https://d1tt0.tistory.com/">
       <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white" />
@@ -32,8 +32,8 @@
 
 ### ☕ Language  
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell-5391FE?style=for-the-badge&logo=GNU-Bash&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell-5391FE?style=for-the-badge&logo=GNU-Bash&logoColor=white" />
 <br/><br/>
 
 ### 🌿 Spring & Backend Framework  
@@ -44,8 +44,8 @@
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20AOP-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=MyBatis&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Reactor%20Netty-5A45FF?style=for-the-badge&logo=React&logoColor=white" />
 <br/><br/>
 
@@ -53,12 +53,6 @@
 <img src="https://img.shields.io/badge/Altibase-F43059?style=for-the-badge&logo=Databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" />
-<br/><br/>
-
-### ⚙️ DevOps & Infra  
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 <br/><br/>
 
 </div>
