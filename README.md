@@ -59,6 +59,19 @@
 
 ---
 
+## 🏆 Certifications
+
+<div align="center">
+
+| 자격증 | 취득일 |
+|--------|---------|
+| <img src="https://img.shields.io/badge/정보처리기사-00599C?style=for-the-badge&logoColor=white" /> | 📅 2022.11.25 |
+| <img src="https://img.shields.io/badge/SQLD-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" /> | 📅 2024.06.21 |
+
+</div>
+
+---
+
 ## 🏅 GitHub Stats
 
 <div align="center">
