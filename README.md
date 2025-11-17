@@ -69,12 +69,3 @@
 | <img src="https://img.shields.io/badge/SQLD-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" /> | 📅 2024.06.21 |
 
 </div>
-
----
-
-## 🏅 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyun-seung&show_icons=true&theme=transparent&cache_seconds=60" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun-seung&layout=compact&theme=transparent&cache_seconds=60" height="165px" />
-</div>
