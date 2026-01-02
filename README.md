@@ -65,7 +65,8 @@
 
 | 자격증 | 취득일 |
 |--------|---------|
-| <img src="https://img.shields.io/badge/정보처리기사-00599C?style=for-the-badge&logoColor=white" /> | 📅 2022.11.25 |
+| <img src="https://img.shields.io/badge/리눅스마스터2급-000000?style=for-the-badge&logo=linux&logoColor=white" /> | 📅 2026.01.02 |
 | <img src="https://img.shields.io/badge/SQLD-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" /> | 📅 2024.06.21 |
+| <img src="https://img.shields.io/badge/정보처리기사-00599C?style=for-the-badge&logoColor=white" /> | 📅 2022.11.25 |
 
 </div>
